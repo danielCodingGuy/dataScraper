@@ -4,6 +4,7 @@
 
 ## Roadmap:<br>
 - Allowing scraping only specific things(for ex.Only about python, in some specific date range).<br>
+- User-Agent support to avoid being blocked.<br>
 - Making the scraper use some random delays to imitate human activity.<br>
 - Scraping more informations that only specific one(for ex.titles,authors,links and date of publishing the article).<br>
 - Multithread scraping to scrape more efficiently a lot of pages and more data at the same time.<br>
